@@ -1,0 +1,11 @@
+import java.util.*;
+public class IntePrint{
+    public static void main(String args[]){
+        int num;
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter a number: ");
+        num=sc.nextInt();
+        System.out.println(num);
+        
+    }
+}
